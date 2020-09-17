@@ -4,5 +4,9 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="xunit.analyzers" Version="0.10.0" />
+  </ItemGroup>
+
 </Project>
 

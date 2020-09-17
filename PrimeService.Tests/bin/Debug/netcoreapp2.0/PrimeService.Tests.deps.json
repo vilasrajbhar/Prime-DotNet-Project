@@ -76,6 +76,9 @@
         }
       },
       "PrimeService/1.0.0": {
+        "dependencies": {
+          "xunit.analyzers": "0.10.0"
+        },
         "runtime": {
           "PrimeService.dll": {}
         }
