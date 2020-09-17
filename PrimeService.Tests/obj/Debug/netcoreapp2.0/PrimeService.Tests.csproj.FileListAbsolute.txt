@@ -1,3 +1,6 @@
+D:\VilasRaj\Projects\Practise Project\Prime-DotNet-Project\PrimeService.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\VilasRaj\Projects\Practise Project\Prime-DotNet-Project\PrimeService.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\VilasRaj\Projects\Practise Project\Prime-DotNet-Project\PrimeService.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
 D:\VilasRaj\Projects\Practise Project\Prime-DotNet-Project\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.Tests.deps.json
 D:\VilasRaj\Projects\Practise Project\Prime-DotNet-Project\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.Tests.runtimeconfig.json
 D:\VilasRaj\Projects\Practise Project\Prime-DotNet-Project\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.Tests.runtimeconfig.dev.json
@@ -13,6 +16,3 @@ D:\VilasRaj\Projects\Practise Project\Prime-DotNet-Project\PrimeService.Tests\ob
 D:\VilasRaj\Projects\Practise Project\Prime-DotNet-Project\PrimeService.Tests\obj\Debug\netcoreapp2.0\PrimeService.Tests.dll
 D:\VilasRaj\Projects\Practise Project\Prime-DotNet-Project\PrimeService.Tests\obj\Debug\netcoreapp2.0\PrimeService.Tests.pdb
 D:\VilasRaj\Projects\Practise Project\Prime-DotNet-Project\PrimeService.Tests\obj\Debug\netcoreapp2.0\PrimeService.Tests.genruntimeconfig.cache
-D:\VilasRaj\Projects\Practise Project\Prime-DotNet-Project\PrimeService.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
-D:\VilasRaj\Projects\Practise Project\Prime-DotNet-Project\PrimeService.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
-D:\VilasRaj\Projects\Practise Project\Prime-DotNet-Project\PrimeService.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
